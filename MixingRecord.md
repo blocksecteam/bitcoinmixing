@@ -130,6 +130,3 @@
     * Bitcoin Received: `0.00099430`
     * Receiving Time: `7 November 2019, 6:20:14 am`
     * Mixing Transaction: `e1bd0926c533268a6afa194f517b743a220839b0d9ab3451a1ec59b63c7aa1ba`
-
-
-> Binance 2019-05攻击: https://btc.com/d7120218edfd6203832ff024c9c223c50915581fba06029332b1a0c75b43ecd3
