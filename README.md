@@ -13,7 +13,7 @@ To cite this paper:
 ```
 @inproceedings{
   title={Towards Understanding and Demystifying Bitcoin Mixing Services},
-  author={Wu, Lei and Hu, Yufeng and Zhou, Yajin and Wang, Haoyu and Luo, Xiaopu and Wang, Zhi and Zhang, Fan and Ren, Kui},
+  author={Wu, Lei and Hu, Yufeng and Zhou, Yajin and Wang, Haoyu and Luo, Xiapu and Wang, Zhi and Zhang, Fan and Ren, Kui},
   booktitle={Proceedings of the World Wide Web Conference},
   year={2021},
   organization={The Web Conference}
