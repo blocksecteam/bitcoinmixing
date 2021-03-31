@@ -6,7 +6,10 @@ This repository contains the dataset introduced in the paper: Towards Understand
 
 Repository organization:
 * `Mixing Record.md`: mixing records for experiments with mixing services using real Bitcoins, as mentioned in the paper.
-* `mixing_transactions`: directory containing mixing transactions data from our crawler using public APIs (to be organized).
+* `data`: directory containing mixing transactions data (to be organized).
+  * `chipmixer_mixing_transactions.json`: collected mixing transactions from Chipmixer using our proposed algorithm.
+  * `shapeshift_full_records.json`: full records of our ShapeShift crawler.
+  * `shapeshift_mixing_transactions.json`: mixing transactions using refined matching algorithm based on crawled records.
 
 To cite this paper:
 
