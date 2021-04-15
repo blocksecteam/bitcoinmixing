@@ -10,6 +10,7 @@ Repository organization:
   * `chipmixer_mixing_transactions.json`: collected mixing transactions from Chipmixer using our proposed algorithm.
   * `shapeshift_full_records.json`: full records of our ShapeShift crawler.
   * `shapeshift_mixing_transactions.json`: mixing transactions using refined matching algorithm based on crawled records.
+  * `wasbi_tx.json`: crawled records of Wasabi Wallet transactions.
 
 To cite this paper:
 
